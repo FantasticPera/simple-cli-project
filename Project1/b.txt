@@ -1,0 +1,2 @@
+ispis
+Error: Invalid command in line - echal

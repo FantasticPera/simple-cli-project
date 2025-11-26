@@ -1,0 +1,30 @@
+﻿  ArgumentChecker.cpp
+  BatchCommand.cpp
+  Command.cpp
+D:\faks\Druga godina\OOP\mojcli\mojcli\Command.cpp(23,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\faks\Druga godina\OOP\mojcli\mojcli\Command.cpp(31,17): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\faks\Druga godina\OOP\mojcli\mojcli\Command.cpp(36,17): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  CommandChecker.cpp
+D:\faks\Druga godina\OOP\mojcli\mojcli\CommandChecker.cpp(519,23): warning C4101: 'e': unreferenced local variable
+  CommandMenager.cpp
+  CommandVisitor.cpp
+  DateCommand.cpp
+  EchoCommand.cpp
+  FileOperations.cpp
+  HeadCommand.cpp
+  main.cpp
+  MultilineReader.cpp
+  Parser.cpp
+  PromptCommand.cpp
+  RmCommand.cpp
+  TimeCommand.cpp
+  TouchCommand.cpp
+  TrCommand.cpp
+D:\faks\Druga godina\OOP\mojcli\mojcli\TrCommand.cpp(51,13): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  TruncateCommand.cpp
+  WcCommand.cpp
+D:\faks\Druga godina\OOP\mojcli\mojcli\WcCommand.cpp(67,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+D:\faks\Druga godina\OOP\mojcli\mojcli\WcCommand.cpp(70,1): warning C4715: 'WcCommand::countWC': not all control paths return a value
+D:\faks\Druga godina\OOP\mojcli\mojcli\Command.cpp(18,1): warning C4715: 'Command::readArgumentOrFile': not all control paths return a value
+  Project1.vcxproj -> D:\faks\Druga godina\OOP\mojcli\mojcli\x64\Debug\Project1.exe

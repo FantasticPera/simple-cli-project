@@ -1,0 +1,650 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\FileOperations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:FileOperations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\FileOperations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:FileOperations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TouchCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:TouchCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TouchCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:TouchCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TimeCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:TimeCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TimeCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:TimeCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\DateCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:DateCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\MultilineReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:MultilineReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\MultilineReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:MultilineReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:CommandChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:CommandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:Parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:Parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\BatchCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:BatchCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\PromptCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:PromptCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\PromptCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:PromptCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandMenager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:CommandMenager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:CommandVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:CommandVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TrCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:TrCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\WcCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:WcCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TruncateCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:TruncateCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\RmCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:RmCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\HeadCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:HeadCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\EchoCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:EchoCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\DateCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:DateCommand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Command.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:Command.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\ArgumentChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:ArgumentChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\WcCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:WcCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TruncateCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:TruncateCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TrCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:TrCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\RmCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:RmCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\HeadCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:HeadCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\EchoCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:EchoCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandMenager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:CommandMenager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Command.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:Command.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\BatchCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:BatchCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\ArgumentChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{450ADDD0-BC64-4F52-B1E9-B931C9E7CFFF}|Project1\\Project1.vcxproj|solutionrelative:ArgumentChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T22:05:19.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TouchCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TouchCommand.h",
+              "RelativeDocumentMoniker": "TouchCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TouchCommand.h",
+              "RelativeToolTip": "TouchCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T16:31:24.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TouchCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TouchCommand.cpp",
+              "RelativeDocumentMoniker": "TouchCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TouchCommand.cpp",
+              "RelativeToolTip": "TouchCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T16:29:28.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileOperations.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\FileOperations.cpp",
+              "RelativeDocumentMoniker": "FileOperations.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\FileOperations.cpp",
+              "RelativeToolTip": "FileOperations.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T00:21:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TimeCommand.cpp",
+              "RelativeDocumentMoniker": "TimeCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TimeCommand.cpp",
+              "RelativeToolTip": "TimeCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T19:10:13.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TimeCommand.h",
+              "RelativeDocumentMoniker": "TimeCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TimeCommand.h",
+              "RelativeToolTip": "TimeCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T21:08:34.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\DateCommand.h",
+              "RelativeDocumentMoniker": "DateCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\DateCommand.h",
+              "RelativeToolTip": "DateCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T21:08:17.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileOperations.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\FileOperations.h",
+              "RelativeDocumentMoniker": "FileOperations.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\FileOperations.h",
+              "RelativeToolTip": "FileOperations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T19:06:45.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultilineReader.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\MultilineReader.cpp",
+              "RelativeDocumentMoniker": "MultilineReader.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\MultilineReader.cpp",
+              "RelativeToolTip": "MultilineReader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T19:08:53.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultilineReader.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\MultilineReader.h",
+              "RelativeDocumentMoniker": "MultilineReader.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\MultilineReader.h",
+              "RelativeToolTip": "MultilineReader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-23T23:23:29.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommandChecker.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandChecker.cpp",
+              "RelativeDocumentMoniker": "CommandChecker.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandChecker.cpp",
+              "RelativeToolTip": "CommandChecker.cpp",
+              "ViewState": "AgIAAAoCAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T22:05:25.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PromptCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\PromptCommand.cpp",
+              "RelativeDocumentMoniker": "PromptCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\PromptCommand.cpp",
+              "RelativeToolTip": "PromptCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T19:09:54.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommandChecker.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandChecker.h",
+              "RelativeDocumentMoniker": "CommandChecker.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandChecker.h",
+              "RelativeToolTip": "CommandChecker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T19:11:03.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Parser.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Parser.cpp",
+              "RelativeDocumentMoniker": "Parser.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Parser.cpp",
+              "RelativeToolTip": "Parser.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T16:32:27.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BatchCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\BatchCommand.cpp",
+              "RelativeDocumentMoniker": "BatchCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\BatchCommand.cpp",
+              "RelativeToolTip": "BatchCommand.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T15:16:54.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Parser.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Parser.h",
+              "RelativeDocumentMoniker": "Parser.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Parser.h",
+              "RelativeToolTip": "Parser.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T19:11:59.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PromptCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\PromptCommand.h",
+              "RelativeDocumentMoniker": "PromptCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\PromptCommand.h",
+              "RelativeToolTip": "PromptCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T19:12:13.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommandMenager.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandMenager.cpp",
+              "RelativeDocumentMoniker": "CommandMenager.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandMenager.cpp",
+              "RelativeToolTip": "CommandMenager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T23:31:37.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommandVisitor.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandVisitor.cpp",
+              "RelativeDocumentMoniker": "CommandVisitor.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandVisitor.cpp",
+              "RelativeToolTip": "CommandVisitor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T18:58:03.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommandVisitor.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandVisitor.h",
+              "RelativeDocumentMoniker": "CommandVisitor.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandVisitor.h",
+              "RelativeToolTip": "CommandVisitor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T21:07:49.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RmCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\RmCommand.cpp",
+              "RelativeDocumentMoniker": "RmCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\RmCommand.cpp",
+              "RelativeToolTip": "RmCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T16:40:50.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WcCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\WcCommand.cpp",
+              "RelativeDocumentMoniker": "WcCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\WcCommand.cpp",
+              "RelativeToolTip": "WcCommand.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T00:19:08.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TrCommand.cpp",
+              "RelativeDocumentMoniker": "TrCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TrCommand.cpp",
+              "RelativeToolTip": "TrCommand.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T17:07:38.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TruncateCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TruncateCommand.cpp",
+              "RelativeDocumentMoniker": "TruncateCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TruncateCommand.cpp",
+              "RelativeToolTip": "TruncateCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T16:39:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HeadCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\HeadCommand.cpp",
+              "RelativeDocumentMoniker": "HeadCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\HeadCommand.cpp",
+              "RelativeToolTip": "HeadCommand.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T14:52:04.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EchoCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\EchoCommand.cpp",
+              "RelativeDocumentMoniker": "EchoCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\EchoCommand.cpp",
+              "RelativeToolTip": "EchoCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T14:44:54.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DateCommand.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\DateCommand.cpp",
+              "RelativeDocumentMoniker": "DateCommand.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\DateCommand.cpp",
+              "RelativeToolTip": "DateCommand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T18:58:12.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Command.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Command.cpp",
+              "RelativeDocumentMoniker": "Command.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Command.cpp",
+              "RelativeToolTip": "Command.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T18:55:33.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ArgumentChecker.cpp",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\ArgumentChecker.cpp",
+              "RelativeDocumentMoniker": "ArgumentChecker.cpp",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\ArgumentChecker.cpp",
+              "RelativeToolTip": "ArgumentChecker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T22:00:07.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WcCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\WcCommand.h",
+              "RelativeDocumentMoniker": "WcCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\WcCommand.h",
+              "RelativeToolTip": "WcCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T21:08:40.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TruncateCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TruncateCommand.h",
+              "RelativeDocumentMoniker": "TruncateCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TruncateCommand.h",
+              "RelativeToolTip": "TruncateCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T21:08:38.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RmCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\RmCommand.h",
+              "RelativeDocumentMoniker": "RmCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\RmCommand.h",
+              "RelativeToolTip": "RmCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T21:08:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HeadCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\HeadCommand.h",
+              "RelativeDocumentMoniker": "HeadCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\HeadCommand.h",
+              "RelativeToolTip": "HeadCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T17:14:43.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TrCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TrCommand.h",
+              "RelativeDocumentMoniker": "TrCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\TrCommand.h",
+              "RelativeToolTip": "TrCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T21:30:18.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EchoCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\EchoCommand.h",
+              "RelativeDocumentMoniker": "EchoCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\EchoCommand.h",
+              "RelativeToolTip": "EchoCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-23T23:32:01.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CommandMenager.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandMenager.h",
+              "RelativeDocumentMoniker": "CommandMenager.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\CommandMenager.h",
+              "RelativeToolTip": "CommandMenager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T21:07:47.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Command.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Command.h",
+              "RelativeDocumentMoniker": "Command.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\Command.h",
+              "RelativeToolTip": "Command.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-24T21:07:43.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ArgumentChecker.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\ArgumentChecker.h",
+              "RelativeDocumentMoniker": "ArgumentChecker.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\ArgumentChecker.h",
+              "RelativeToolTip": "ArgumentChecker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T19:10:50.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BatchCommand.h",
+              "DocumentMoniker": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\BatchCommand.h",
+              "RelativeDocumentMoniker": "BatchCommand.h",
+              "ToolTip": "D:\\faks\\Druga godina\\OOP\\mojcli\\mojcli\\BatchCommand.h",
+              "RelativeToolTip": "BatchCommand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-22T17:24:12.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

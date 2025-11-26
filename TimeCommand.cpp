@@ -1,0 +1,29 @@
+#include "TimeCommand.h"
+
+using namespace std;
+
+string TimeCommand::execute(vector<std::string> commandVec) {
+	ostringstream result;
+	time_t t = time(nullptr);
+	tm tm;
+	localtime_s(&tm, &t);
+	result << put_time(&tm, "%H:%M:%S");
+	int outRedIndex = Command::findOutRedIndex(commandVec);
+
+	if (outRedIndex != -1) {
+		//ako fajl ne postoji
+		if (!FileOperations::fileExists(commandVec[outRedIndex + 1])) {
+			FileOperations::createFile(commandVec[outRedIndex + 1]);
+		}
+
+		if (commandVec[outRedIndex] == ">") {
+			FileOperations::deleteFileContent(commandVec[outRedIndex + 1]);
+		}
+
+		FileOperations::writeFileContent(commandVec[outRedIndex + 1], result.str());
+		return "";
+
+	}
+
+	return result.str();
+}
